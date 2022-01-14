@@ -1,2 +1,2 @@
-rm -rf pkg/ src/ dni9-dwm-1.0-1-any.pkg.tar.zst
-makepkg -Csf
+rm -rf pkg/ src/ *.tar.zst
+makepkg -Csfi
