@@ -1,5 +1,5 @@
 pkgname=dni9-dwmblocks
-pkgver=1.r4.239eda7
+pkgver=1.r5.a414359
 pkgrel=1
 pkgdesc="My bloated build of dwmblocks"
 url="https://github.com/DNI9/dwmblocks"
